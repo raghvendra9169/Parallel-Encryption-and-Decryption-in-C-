@@ -1,4 +1,4 @@
-# Parallel-Encryption-and-Decryption-in-C-++
+# Parallel-Encryption-and-Decryption-in-C++
 
 ## Overview
 
